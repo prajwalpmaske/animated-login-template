@@ -1,7 +1,9 @@
 # animated-login-template 
 
 Here’s is a preview link 🔗 of the template :
-[image](https://github.com/prajwalpmaske/animated-login-template/assets/114854119/f1ac8fa7-f914-429b-83e0-0a62acb0cacd)
+[image.hover](https://github.com/prajwalpmaske/animated-login-template/assets/114854119/f1ac8fa7-f914-429b-83e0-0a62acb0cacd) , ![image.beforehover](https://github.com/prajwalpmaske/animated-login-template/assets/114854119/2050c140-b3aa-492f-aec5-aaaa1cf5027a)
+
+
 
 "✨ Introducing our HTML & CSS-Only Animated Login Template! Elevate your website's login experience with elegance, simplicity, and style. 🚀
 
